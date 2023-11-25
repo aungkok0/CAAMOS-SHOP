@@ -462,7 +462,7 @@ footer a:hover {
     }
 
 }
-@media (max-width: 390px) {
+@media (max-width: 395px) {
     .logo-title{
         font-size: 10px;
     }
